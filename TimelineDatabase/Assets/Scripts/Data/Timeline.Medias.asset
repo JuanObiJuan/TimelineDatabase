@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 04be931911758f24ab77b019921a553c, type: 3}
-  m_Name: New Timeline Medias
+  m_Name: Timeline
   m_EditorClassIdentifier: 
   elements: []

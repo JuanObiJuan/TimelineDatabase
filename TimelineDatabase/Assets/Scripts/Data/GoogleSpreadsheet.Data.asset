@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 388024aef950f8b409c70f8753e4d872, type: 3}
-  m_Name: GoogleSpreadsheet.Data
+  m_Name: GoogleSpreadsheet
   m_EditorClassIdentifier: 
   SpreadsheetId: 
   TabId: 
