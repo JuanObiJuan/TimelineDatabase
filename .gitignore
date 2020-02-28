@@ -1,0 +1,7 @@
+*.csproj
+TimelineDatabase/.vs/
+*.sln
+TimelineDatabase/Library/
+TimelineDatabase/obj/
+TimelineDatabase/Temp/
+TimelineDatabase/ProjectSettings/
